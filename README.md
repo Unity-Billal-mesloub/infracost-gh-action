@@ -10,7 +10,7 @@
 
 ---
 
-This GitHub Action runs [Infracost](https://infracost.io) against pull requests whenever Terraform files change. It automatically adds a pull request comment showing the cost estimate difference for the planned state. See [this repo for a demo](https://github.com/infracost/gh-actions-demo).
+This GitHub Action runs [Infracost](https://infracost.io) against pull requests whenever Terraform files change. It automatically adds a pull request comment showing the cost estimate difference for the planned state. See [this repo for a demo](https://github.com/Unity-Billal-mesloub/gh-actions-demo).
 
 The Action uses the latest version of Infracost by default as we regularly add support for more cloud resources. If you run into any issues, please join our [community Slack channel](https://www.infracost.io/community-chat); we'd be happy to guide you through it.
 
