@@ -158,9 +158,9 @@ Assuming you have [downloaded Infracost](https://www.infracost.io/docs/#quick-st
 - `'{"always": true}'`: a commit comment is put on every commit.
 - `'{"percentage_threshold": 0}'`: absolute percentage threshold that triggers a comment. For example, set to 1 to post a comment if the cost estimate changes by more than plus or minus 1%. A commit comment is put on every commit with a Terraform change that results in a cost diff that is bigger than the threshold.
 
-Please use [this GitHub discussion](https://github.com/Unity-Billal-mesloub/infracost/discussions/1016) to tell us what you'd like to see in PR comments.
+Please use [this GitHub discussion](https://github.com/Unity-Billal-mesloub/infracost/discussions) to tell us what you'd like to see in PR comments.
 
-Please use [this GitHub discussion](https://github.com/Unity-Cloud/infracost/discussions/1016) to tell us what you'd like to see in PR comments.
+Please use [this GitHub discussion](https://github.com/Unity-Cloud/infracost/discussions) to tell us what you'd like to see in PR comments.
 
 ## `sync_usage_file` (experimental)
 
