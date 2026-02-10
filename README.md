@@ -2,7 +2,9 @@
 
 ## Deprecation notice
 
-👉👉 We recommend using the [**free Infracost GitHub App**](https://www.infracost.io/docs/integrations/github_app/) instead as it has many benefits over GitHub Actions. If you want to use GitHub Actions, use the new [Infracost actions repo](https://github.com/infracost/actions/) 👈👈
+👉👉 We recommend using the [**free Infracost GitHub App**](https://www.infracost.io/docs/integrations/github_app/) instead as it has many benefits over GitHub Actions. If you want to use GitHub Actions, use the new [Infracost actions repo](https://github.com/Unity-Billal-mesloub/actions/) 👈👈
+
+👉👉 We recommend using the [**free Infracost GitHub App**](https://www.infracost.io/docs/integrations/github_app/) instead as it has many benefits over GitHub Actions. If you want to use GitHub Actions, use the new [Infracost actions repo](https://github.com/Unity-for-Unity-Manufacturing/actions/) 👈👈
 
 ⚠️ This repo will be deprecated in the next Infracost release. Follow our [migration guide](https://www.infracost.io/docs/guides/actions_migration) for more details. ⚠️
 
