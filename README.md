@@ -138,7 +138,9 @@ Assuming you have [downloaded Infracost](https://www.infracost.io/docs/#quick-st
 
 ## `usage_file`
 
-**Optional** Path to Infracost [usage file](https://www.infracost.io/docs/features/usage_based_resources#infracost-usage-file) that specifies values for usage-based resources, see [this example file](https://github.com/infracost/infracost/blob/master/infracost-usage-example.yml) for the available options.
+**Optional** Path to Infracost [usage file](https://www.infracost.io/docs/features/usage_based_resources#infracost-usage-file) that specifies values for usage-based resources, see [this example file](https://github.com/Unity-Billal-mesloub/infracost/blob/main/infracost-usage-example.yml) for the available options.
+
+**Optional** Path to Infracost [usage file](https://www.infracost.io/docs/features/usage_based_resources#infracost-usage-file) that specifies values for usage-based resources, see [this example file](https://github.com/Unity-Cloud/infracost/blob/main/infracost-usage-example.yml) for the available options.
 
 ## `config_file`
 
