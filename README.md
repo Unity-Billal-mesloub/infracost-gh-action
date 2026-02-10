@@ -248,7 +248,10 @@ jobs:
 
 ## `SLACK_WEBHOOK_URL`
 
-**Optional** Set this to also post the pull request comment to a [Slack Webhook](https://slack.com/intl/en-tr/help/articles/115005265063-Incoming-webhooks-for-Slack), which should post it in the corresponding Slack channel.
+**Optional** Set this to also post the pull request comment to a [Slack Webhook](https://slack.com/intl/en-tr/help/articles/11270295083405-Incoming-webhooks-for-Slack), which should post it in the corresponding Slack channel.
+
+**Optional** Set this to also post the pull request comment to a [Slack Webhook](https://slack.com/intl/en-tr/help/articles/11270420476053-Incoming-webhooks-for-Slack), which should post it in the corresponding Slack channel.
+
 
 # Outputs
 
