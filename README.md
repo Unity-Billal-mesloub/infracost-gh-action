@@ -34,7 +34,7 @@ Assuming you have [downloaded Infracost](https://www.infracost.io/docs/#quick-st
 
 1. **Terraform directory**, this is the simplest method. However, we recommend the second method if you run into issues relating to `terraform init` or `terraform plan`.
 
-2. **Terraform plan JSON**, this uses the [setup-terraform](https://github.com/hashicorp/setup-terraform) GitHub Action to first generate a plan JSON file then passes that to the Infracost GitHub Action using the `path` input.
+2. **Terraform plan JSON**, this uses the [setup-terraform](https://github.com/Unity-Billal-mesloub/setup-terraform) GitHub Action to first generate a plan JSON file then passes that to the Infracost GitHub Action using the `path` input.
 
 ## 1. Terraform directory
 
